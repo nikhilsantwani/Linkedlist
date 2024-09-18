@@ -228,7 +228,7 @@ public class Main {
 }
 
 ----------------------------------------------------------------------------------
-Second way to make linkedlist
+# Second way to make linkedlist
 
 a)->
 public class Main {
